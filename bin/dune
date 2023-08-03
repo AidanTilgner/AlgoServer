@@ -1,4 +1,4 @@
 (executable
  (public_name AlgoServer)
  (name main)
- (libraries AlgoServer))
+ (libraries AlgoServer dream))

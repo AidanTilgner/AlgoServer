@@ -9,7 +9,7 @@
 
 (authors "Aidan Tilgner")
 
-(maintainers "Aidan Tilgne")
+(maintainers "Aidan Tilgner")
 
 (license LICENSE)
 
